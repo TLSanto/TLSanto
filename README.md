@@ -2,7 +2,7 @@
 
 meu nome e TLSanto
 
-- estou estudando na alura;
+- estou estudando na [alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem javaScripti
 - utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
 
